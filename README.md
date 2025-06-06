@@ -1,8 +1,6 @@
 # Practica-Airline-Passenger-Satisfaction---Tabular-Dataset-Classification
 Predicción de satisfacción de clientes a partir de datos tabulares. Incluye EDA, preprocesado, modelos clásicos (Sklearn) y una red neuronal (Keras), con evaluación detallada de métricas y thresholds.
 
-# ✈️ Clasificación de Satisfacción de Pasajeros Aéreos.
-
 # ✈️ Clasificación de Satisfacción de Pasajeros Aéreos
 
 Este proyecto es parte del Bootcamp de Data Science en [Hack a Boss](https://www.hackaboss.com/). Aquí se desarrolla un modelo de clasificación para predecir si un pasajero está satisfecho o no, en base a múltiples variables relacionadas con su experiencia de vuelo.
